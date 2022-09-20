@@ -1,1 +1,6 @@
-#WRITE YOUR CODE IN THIS FILE
+def password():
+    password = ("password")
+    if password == "Knights19":
+        print("ACCESS GRANTED")
+    else:
+        print("ACCESS DENIED")
